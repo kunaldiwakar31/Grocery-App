@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="onion">Onion</string>
+    <string name="rs_30">Rs 30</string>
+    <string name="ludhiana_punjab">Ludhiana, Punjab</string>
+    <string name="search_by_district_village">Search By District/Village</string>
+    <string name="search_by_district_or_village">Search By District or Village</string>
+    <string name="todo">TODO</string>
+    <string name="_31_12_2020">31/12/2020</string>
+</resources>
